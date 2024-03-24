@@ -38,13 +38,6 @@ def get_channel_info(channel_id):
                     )
         return data
 
-#only 10          :"UCdP7WjR7SGmo1TBSSUJ5Mtw"
-#science with sam :"UChGd9JY4yMegY6PxqpBjpRA"
-#Mr Gk            :"UC5cY198GU1MQMIPJgMkCJ_Q"
-#vicky_edits      :"UCGx7rPjOTx-Sm8u85KRI1wA"
-#madhan gowri     :"UCY6KjrDBN_tIRFT_QNqQbRQ"
-#un signed        :"UCXnDDUQyJpRfC98_ZRIuhZA"
-#naked science    :"UC8JT2m0mKEgvEtie3JNKwew"
 
 #get playlist ids
 def get_playlist_info(channel_id):
