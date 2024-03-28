@@ -3,7 +3,6 @@ import psycopg2
 import pandas as pd
 import streamlit as st
 from googleapiclient.discovery import build
-import pathlib
 from PIL import Image
 
 #API key connection
